@@ -18,6 +18,12 @@
       ]
     ],
     "name": "mta3",
-    "slug": "mta3"
+    "slug": "mta3",
+    "android": {
+      "package": "com.zuhair085.mta3"
+    },
+    "ios": {
+      "bundleIdentifier": "com.zuhair085.mta3"
+    }
   }
 }
